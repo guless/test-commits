@@ -1,5 +1,5 @@
 # 提交格式：
-双括号中的内容昵称以及 email 请替换成自己的。
+双括号中的昵称以及 email 请替换成自己的。
 ```shell
 git clone https://github.com/guless/test-commits.git
 cd test-commits
